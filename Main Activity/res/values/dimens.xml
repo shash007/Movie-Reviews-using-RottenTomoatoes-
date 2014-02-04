@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textsize">18sp</dimen>
+    <dimen name="padding">50dp</dimen>
+    <dimen name="titletext">17sp</dimen>
+    <dimen name="margintop">2dp</dimen>
+    <dimen name="margintop2">20dp</dimen>
+    <dimen name="textsize2">18sp</dimen>
+    <dimen name="margintop3">10dp</dimen>
+    <dimen name="margintop4">10dp</dimen>
+    <dimen name="margintop5">10dp</dimen>
+    <dimen name="margintop6">10dp</dimen>
+    <dimen name="marginleft">30dp</dimen>
+    <dimen name="margintop7">10dp</dimen>
+    <dimen name="marginright">35dp</dimen>
+    <dimen name="marginright2">25dp</dimen>
+    <dimen name="widthheight">150dp</dimen>
+    <dimen name="marginleft2">31dp</dimen>
+    <dimen name="widthheight2">50dp</dimen>
+    <dimen name="widthheight3">10dp</dimen>
+    <dimen name="textsize3">30sp</dimen>
+    <dimen name="minwidth">64dip</dimen>
+    <dimen name="marginright3">10dp</dimen>
+    <dimen name="marginright4">35dp</dimen>
+    <dimen name="paddingbottom">5dp</dimen>
+    <dimen name="widthheight4">32dp</dimen>
+    <dimen name="padding1">4dp</dimen>
+    <dimen name="textsize4">14sp</dimen>
+    <dimen name="textsize5">14sp</dimen>
+    <dimen name="textsize6">14sp</dimen>
+
+</resources>
